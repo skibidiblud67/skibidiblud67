@@ -1,4 +1,4 @@
-## Hi there 👋
+![Image](https://github.com/user-attachments/assets/97bcaf8a-136c-41f6-ac8f-1395d9076079)
 
 <!--
 **skibidiblud67/skibidiblud67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
