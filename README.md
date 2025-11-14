@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/97bcaf8a-136c-41f6-ac8f-1395d9076079)
-
+<img width="1192" height="888" alt="Image" src="https://github.com/user-attachments/assets/8c71654e-3467-408d-883b-9ef88c43e52f" />
 <!--
 **skibidiblud67/skibidiblud67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
